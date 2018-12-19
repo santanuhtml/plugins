@@ -1,0 +1,18 @@
+========================
+Akismet (Freemium)
+========================
+Comments:
+step1:
+Settings -> Discussion -> Before a comment appears
+[DONE] Comment must be manually approved  
+[DONE] Comment author must have a previously approved comment
+
+step2:
+Active Akismet plugin
+Click on [Activae your Akismet account]
+[Get your API key]
+take BASIC version and set $0/YEAR
+Copy and past this the API KEY
+
+step3:
+Settings -> Akismet Anti-Spam

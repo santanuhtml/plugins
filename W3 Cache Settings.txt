@@ -1,0 +1,62 @@
+W3 TOTAL CACHE
+from: https://www.youtube.com/watch?v=4gvaGp9rQTQ&vl=en
+------------------
+============
+step:1
+GENERAL SETTINGS:
+
+General Settings:
+Page Cache: [ok]
+Page Cache Method:[Disk:Enhanced]
+Click -> Save all Settings
+
+Browser Cache: [OK] Enable
+Click -> Save all settings
+
+============
+Step:2
+PAGE CACHE:
+
+General
+[OK]Cache posts page
+[OK]Cache feeds: site, categories, tags, comments
+IF SSL OR HTTPS Then [OK]
+[OK]Cache 404 (not found) pages
+[OK]Don't cache pages for following user roles
+[OK]Administrator,Editor,Author,Contributor,Subscriber
+
+Cache Preload
+[OK]Automatically prime the page cache
+Sitemap URL: http://growthmates.in/sitemap.xml
+---------
+Note:get it from https://www.xml-sitemaps.com/
+---------
+Click -> Save all settings
+
+Advanced
+Compatibility mode: [OK]
+
+==========
+Step:3
+BROWSER CACHE
+
+General:
+[Uncheck]Set Last-Modified header 
+[OK]Set expires header 
+[OK]Set entity tag (ETag) 
+[OK]Don't set cookies for static files 
+Click - Save all settings
+
+
+Note:
+post update eassily
+pages does't
+
+
+
+
+
+
+
+
+
