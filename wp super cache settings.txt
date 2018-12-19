@@ -13,11 +13,11 @@ Advanced
 2.Cache Delivery Method [DONE] Simple(Recommended)
 
 3.Miscellaneous:
-  [DONE] Don’t cache pages for known users. (Recommended) 
+  [DONE] Donâ€™t cache pages for known users. (Recommended) 
   	 Note: Like logedin user / old user
-  [DONE] Don’t cache pages with GET parameters. (?x=y at the end of a url)
+  [DONE] Donâ€™t cache pages with GET parameters. (?x=y at the end of a url)
 	 Note: dashbord pages.
-  [DONE] Compress pages so they’re served more quickly to visitors. (Recommended)
+  [DONE] Compress pages so theyâ€™re served more quickly to visitors. (Recommended)
   [DONE] Cache rebuild. Serve a supercache file to anonymous users while a new file is being generated. (Recommended)
   [DONE] 304 Not Modified browser caching. Indicate when a page has not been modified since it was last requested. (Recommended)
   
@@ -55,4 +55,8 @@ if you puplish post every 2 hrs then you may take 100 minutes
 *** [Save Settings]
 *** [Preload Cache Now]
 
-SEARCH ON GOOGLE ->Only new pages and post where modification are made will be crawled
+-----------------------
+ADD XML-SITEMAPS
+LINK:
+https://www.xml-sitemaps.com/
+-----------------------
